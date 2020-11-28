@@ -47,7 +47,7 @@
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg text-gray-900 dark:text-white">
                     <h1>Ingenier&iacute;a en Sistemas Computacionales </h1>
                     <h2>Jeffrey Johnathan Torres Alvarado</h2>
-                    <img src="../../../Images/K.png">
+                    <img src="../../../K.png">
                 </div>
                 <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
                     <div class="grid grid-cols-1 md:grid-cols-2">
